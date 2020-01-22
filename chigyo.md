@@ -22,9 +22,21 @@
  - 胎生(viviparity):子供を産む。子供は胎盤で親とつながるか親から栄養を受け取る（卵食oophagy）。ヨシキリザメやウミタナゴなど。
 
 :black_medium_square: 卵生の例
-ハナカケトラザメ(*Scyliorhinus canicula*)は大型の卵を産みつける。卵内で有精卵は分裂し成長し孵化する。
-![サメの卵](https://upload.wikimedia.org/wikipedia/commons/5/57/Scyliorhinus_canicula_foetus_in_an_egg.jpg)
+ナヌカザメ属の卵(Swell shark, *Cephaloscyllium ventriosum*)は大型の卵を産みつける。卵内で有精卵は分裂し成長し孵化する。
+![サメの卵](https://upload.wikimedia.org/wikipedia/commons/8/8e/Swell_shark_egg_channel_islands2.jpg)
 
 :black_medium_square: 胎生の例
 ウミタナゴ類（shiner perch, *Cymatogaster aggregata*)は仔魚を妊娠し産む胎生魚である。
 ![シャイナーパーチ](https://upload.wikimedia.org/wikipedia/commons/6/68/Cymatogaster_aggregata_female.jpg)
+
+### 産卵形式の特徴
+産卵形式は利点と欠点が存在する。魚類の生活史、生活環境、生態的役割（ニッチ）、生活戦略によって最適な繁殖戦略は異なる
+
+|要素| 卵生 | 卵胎生 | 胎生 |
+|:----:|:----:|:----:|:----:|
+| 産卵数 | 多い | 普通 | とても少ない |
+| 孵化までの<br>生存率 | とても低い | 高い | 高い |
+| 孵化後の<br>生存率 | とても低い | 低い | 高い |
+| 卵仔へのコスト | 低い | 低い | 高い |
+| 親のコスト | 低い | 高い | とても高い |
+| 環境変化への強さ | とても低い | 普通 | 高い |
